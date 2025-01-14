@@ -4,9 +4,9 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Katia aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!
 
 ### Objetivos
 
@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criar imagem de uma mulher no mundo digital;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aplicar aprendizado usando IAs generativas em criar imagens a parir de sua necessidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leobardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acesso a algumas IAs como CHATGP E LEONARDO.AI, sendo esse últimmo a melhor escolha, no qual foi informado dados no campo PROMPT para obter a imagem desejada. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/911dbdeb-80f2-47c4-8719-68a3c2ee9390)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
